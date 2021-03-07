@@ -88,7 +88,7 @@ img {
   align-items: center;
 }
 
-.bt:hover {
+.btn:hover {
   box-shadow: 0 0.8rem 1.5rem rgba(0, 0, 0, 0.2);
 }
 
@@ -174,3 +174,23 @@ img {
 .btn-dark:hover {
   background-color: #36393f;
 }
+
+.grid-image {
+  margin-top: 2.4rem;
+  grid-column: span 4;
+}
+
+.text-group {
+  margin-top: 2rem;
+  grid-column: span var(--num-of-grid-columns);
+}
+
+.secondary-title {
+  font-size: var(--secondary-title-font-size);
+}
+
+.text-group p {
+  margin-top: 2rem;
+  line-height: 3.2rem;
+}
+
