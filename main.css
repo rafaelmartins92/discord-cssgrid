@@ -251,3 +251,39 @@ img {
   grid-column: span var(--num-of-grid-columns);
   margin-top: 2.4rem;
 }
+
+/* Download */
+
+.download {
+  background-color: var(--off-white-color);
+  position: relative;
+}
+
+.download .remove-grid {
+  display: block;
+  padding-top: 0;
+  text-align: center;
+}
+
+.sparkles {
+  display: inline-block;
+}
+
+.download h2 {
+  font-size: 3.2rem;
+  font-family: var(--main-font-family-medium);
+}
+
+.btn-brand {
+  background-color: var(--brand-color);
+  color: var(--light-color);
+  transition: background-color .5s;
+}
+
+.download .btn-brand {
+  margin-top: 4rem;
+}
+
+.btn-brand:hover {
+  background-color: #8ea1e1;
+}
