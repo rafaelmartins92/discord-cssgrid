@@ -230,3 +230,24 @@ img {
     );
   }
 }
+
+/* Video Call */
+
+.video-call {
+  background-color: var(--off-white-color);
+}
+
+.video-call .row {
+  padding-bottom: 8rem;
+}
+
+.video-call .text-group {
+  grid-column: span var(--num-of-grid-columns);
+  margin-top: 0;
+}
+
+.video-call .grid-image {
+  width: 100%;
+  grid-column: span var(--num-of-grid-columns);
+  margin-top: 2.4rem;
+}
