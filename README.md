@@ -50,7 +50,7 @@ This project was developed with the following technologies:
 
 You can try it here:
 
--  [Discord Clone](https://discord-cssgrid.netlify.app/)
+-  [Discord Clone](https://rafaelmartins92.github.io/discord-cssgrid/)
 
 ## :information_source: How to Use
 
